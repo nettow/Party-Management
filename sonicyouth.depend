@@ -4,3 +4,22 @@
 	<stdlib.h>
 	<locale.h>
 
+1593464247 source:c:\users\lzjow\desktop\salaodefesta\gerenciamento de um salão de festa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"structs.h"
+	"functions.h"
+
+1593464929 source:c:\users\lzjow\desktop\salaodefesta\gerenciamento de um salão de festa\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+	<time.h>
+	"structs.h"
+
+1593463158 c:\users\lzjow\desktop\salaodefesta\gerenciamento de um salão de festa\structs.h
+
+1593465235 c:\users\lzjow\desktop\salaodefesta\gerenciamento de um salão de festa\functions.h
+
